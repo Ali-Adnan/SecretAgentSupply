@@ -61,9 +61,10 @@ nav {
   background-color: firebrick;
 }
 
-.mobile{
+.mobile span {
   display: none;
 }
+
 .categories{
   display: flex;
   justify-content: space-between;
